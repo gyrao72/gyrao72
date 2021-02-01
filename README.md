@@ -8,6 +8,5 @@
 - 📫 How to reach me: ... [Intagram](https://www.instagram.com/gy_rao72/) [Facebook](https://www.facebook.com/gajender.rao.528) [Twitter](https://twitter.com/gyrao01) [Linkedin](https://www.linkedin.com/in/gajender-yadav-025b00165)
 
 ###  :point_down:
-### [Profile](https://gyrao72.github.io/profile.github.io/my.html)
 ### [Blogpost](https://boiling-garden-75441.herokuapp.com/)
 ### [Smoothie](https://safe-reef-52919.herokuapp.com/)
